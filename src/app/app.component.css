@@ -1,0 +1,26 @@
+p {
+  font-family: Lato;
+}
+.campo {
+  text-align: center;
+  background-color: rgb(104, 117, 119);
+  width: 60px;
+  height: 24px;
+  border-color: black;
+}
+
+.btn-menos,
+.btn-mais {
+  width: 30px;
+  height: 30px;
+  border-radius: 6px 0 0 6px;
+}
+
+.btn-menos {
+  background-color: rgb(211, 104, 104);
+  border-radius: 6px 0 0 6px;
+}
+.btn-mais {
+  background-color: rgb(156, 211, 104);
+  border-radius: 0 6px 6px 0;
+}
